@@ -27,9 +27,9 @@ We have used day.csv as dataframe
 ## Conclusions
 The top 3 features contributing significantly towards explaining the demand of shared bikes are-
 
-temp with the coefficient of 0.4728
-weathersit_Light Snow/Rain (weathersit = 3) with the coefficient of −0.2864
-year (yr) with a coefficient of 0.2342
+- temp with the coefficient of 0.4728
+- weathersit_Light Snow/Rain (weathersit = 3) with the coefficient of −0.2864
+- year (yr) with a coefficient of 0.2342
 
 ## Interpretation and Suggestions-
 Demand is more during Summer months(higher temperature) and clear weather conditions. So, we can do more promotions during this period.
